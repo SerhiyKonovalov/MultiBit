@@ -9,8 +9,6 @@
             }));
         }
     }), 0);
-    //! якщо без підсторінок
-    //! покращена версія з веревіркою чи вже доданий клас active 
     const currentUrl = window.location.pathname;
     //! Add class active to current menu item
         document.addEventListener("DOMContentLoaded", (function() {
